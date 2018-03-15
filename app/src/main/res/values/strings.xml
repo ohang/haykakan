@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArmFilm</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">Որոնում</string>
+    <string name="yearof">Տարի՝</string>
+    <string name="country">Երկիր՝</string>
+    <string name="category">ժանր՝</string>
+    <string name="mainn">Գլխավոր</string>
+    <string name="warf">Պատերազմական</string>
+    <string name="comedyf">Կատակերգություն</string>
+    <string name="thriler">Մարտաֆիլմ</string>
+    <string name="drama">Դրամա</string>
+    <string name="document">Վավերագրական</string>
+    <string name="melodrama">Մելոդրամա</string>
+    <string name="multfilm">Մուլտֆիլմ</string>
+    <string name="reklam">ca-app-pub-9939890174467872/9550634079</string>
+
+
+</resources>
